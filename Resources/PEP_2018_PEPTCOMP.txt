@@ -1,0 +1,31 @@
+PEPTCOMP
+Estimates of the Components of Resident Population Change: April 1, 2010 to July 1, 2018
+
+(X) Not applicable.
+
+
+[1] Total population change includes a residual. This residual
+represents the change in population that cannot be attributed to any
+specific demographic component. See Population Estimates Terms and
+Definitions at 
+http://www.census.gov/programs-surveys/popest/about/glossary.html.
+
+
+[2] Net international migration for the United States includes the international migration of
+both native and foreign-born populations. Specifically, it includes: (a) the net international
+migration of the foreign born, (b) the net migration between the United States and Puerto
+Rico, (c) the net migration of natives to and from the United States, and (d) the net movement
+of the Armed Forces population between the United States and overseas. Net international
+migration for Puerto Rico includes the migration of native and foreign-born populations
+between the United States and Puerto Rico.
+
+
+Note: The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions. See Geographic Terms and Definitions at  http://www.census.gov/programs-surveys/popest/guidance-geographies/terms-and-definitions.html for a list of the states that are included in each region and division. All geographic boundaries for the 2018 population estimates series except statistical area delineations are as of January 1, 2018.  The Office of Management and Budget's statistical area delineations for metropolitan, micropolitan, and combined statistical areas, as well as metropolitan divisions, are those issued by that agency in August 2017.  For population estimates methodology statements, see  http://www.census.gov/programs-surveys/popest/technical-documentation/methodology.html.
+
+
+Suggested Citation: 
+Estimates of the Components of Resident Population Change: April 1, 2010 to July 1, 2018 
+Source: U.S. Census Bureau, Population Division 
+Release Dates:  For the United States, regions, divisions, states, and Puerto Rico Commonwealth, December 2018.  For counties, metropolitan statistical areas, micropolitan statistical areas, metropolitan divisions, and combined statistical areas, April 2019.
+
+
