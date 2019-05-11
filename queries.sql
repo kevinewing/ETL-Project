@@ -9,5 +9,6 @@ CREATE TABLE state_data (
   State varchar(20) PRIMARY KEY,
   Births int,
   Deaths int,
-  Zika_Cases int
+  Zika_Cases int,
+  Birthrate float
 );
